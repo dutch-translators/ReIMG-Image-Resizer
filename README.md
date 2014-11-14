@@ -1,7 +1,7 @@
-ReIMG-Image Resizer
+ReIMG Image Resizer
 ===========
 
-Dutch translation of the ReIMG-Image-Resizer by DaidIQ
+Dutch translation of the ReIMG Image Resizer by DaidIQ
 
 Installatie
 ===========
