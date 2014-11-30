@@ -50,7 +50,7 @@ $lang = array_merge($lang, array(
 		'button_link'		=> 'Allebei',
 	),
 	'REIMG_ZOOM_METHOD'				=> 'Zoom methode',
-	'REIMG_ZOOM_METHOD_EXPLAIN'		=> 'Seleteer de methode die wordt gebruikt om de orinele grotere afbeelding te tonen.',
+	'REIMG_ZOOM_METHOD_EXPLAIN'		=> 'Selecteer de methode die wordt gebruikt om de orinele grotere afbeelding te tonen.',
 	'reimg_zooming_methods'			=> array(
 		'_blank' 		=> array (
 								'name'			=>	'Nieuw tabblad',
@@ -62,7 +62,7 @@ $lang = array_merge($lang, array(
 							),
 		'_litebox' 		=> array (
 								'name'			=>	'Litebox',
-								'description'	=>	'Toon een grotere versie van de afbeelding in een litebox dat past in het venster met een zoomknop.',
+								'description'	=>	'Toont een grotere versie van de afbeelding in een litebox dat past in het venster met een zoomknop.',
 							),
 		'_litebox1'		=> array(
 								'name'			=>	'Litebox 1:1',
@@ -72,6 +72,6 @@ $lang = array_merge($lang, array(
 	'REIMG_RESIZE_SIG_IMG'			=> 'Verander afbeeldingen in het onderschrift van grootte',
 	'REIMG_RESIZE_SIG_IMG_EXPLAIN'	=> 'Indien je ja hebt gekozen, worden afbeeldingen in het onderschrift ook van grootte veranderd.',
 	'REIMG_ATTACHMENTS'				=> 'ReIMG ook laten werken in bijlagen',
-	'REIMG_ATTACHMENTS_EXPLAIN'		=> 'Indien je ja hebt gekozen worden afbeeldingen in bijlagen met ReIMG weergegeven.',
+	'REIMG_ATTACHMENTS_EXPLAIN'		=> 'Indien je ja hebt gekozen, worden afbeeldingen in bijlagen met ReIMG weergegeven.',
 	'REIMG_UPDATED'					=> 'ReIMG Image Resizer instellingen zijn succesvol gewijzigd.',
 ));
